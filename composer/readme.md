@@ -1,5 +1,0 @@
-- [composer.schema composer.json文件解析](composer.schema.md)
-- [composer 开发测试发布步骤](develop.md)
-- [composer 版本说明](composer.version.md)
-- [composer 命令中文说明](command.md)
-- [开发管理流程](workflow.md)
